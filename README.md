@@ -1,7 +1,7 @@
 # Hi there, I'm zgred! 👋
 
 ### 🚀 FiveM & Web Full Stack Developer
-I build high-performance gaming systems and modern web applications. Specialized in **React (TSX)** and **TypeScript** ecosystems.
+I build high-performance gaming systems and modern web applications. Specialized in **React (JSX).**
 
 ---
 
@@ -9,7 +9,7 @@ I build high-performance gaming systems and modern web applications. Specialized
 
 **🎮 FiveM Development**
 - 🟦 **Lua** (Advanced Client/Server side, Optimization, ox_lib)
-- ⚛️ **React (TSX) + TailwindCSS** (Modern NUI Interfaces)
+- ⚛️ **React (JSX) + TailwindCSS** (Modern NUI Interfaces)
 - 🗄️ **SQL / MariaDB** (Database Design & Optimization)
 
 **🌐 Web Development**
@@ -26,5 +26,5 @@ I build high-performance gaming systems and modern web applications. Specialized
 ---
 
 ### 📂 Let's Connect
-- **Discord:** `TwójDiscordTag`
+- **Discord:** `zgred7`
 - **GitHub:** Working on private & open-source projects
