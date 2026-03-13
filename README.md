@@ -1,1 +1,1 @@
-<img src='https://imgur.com/a/U0QPgmJ'>
+<img src='https://imgur.com/a/U0QPgmJ.png'>
